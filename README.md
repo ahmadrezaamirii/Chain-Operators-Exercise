@@ -1,5 +1,17 @@
 # Chain-Operators-Exercise
 ---
+Write a program that takes three input numbers and checks whether the first number is less than the second number and the second number is less than or equal to the third number.
+
+Inputs:
+
+Three integers named a, b, and c.
+
+Outputs:
+
+If the condition a < b <= c is true, then display the output True.
+
+Otherwise, display the output False.
+***
 ### input:
 ````
 a = int(input("enter a: "))
